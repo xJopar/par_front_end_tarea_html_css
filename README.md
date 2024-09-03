@@ -4,6 +4,7 @@
 **Estudiante:** José María Cabrera Peralta  
 **Profesor:** Diego Ihara
 **Año:** 2024
+
 **[Repositorio de GitHub](https://github.com/xJopar/par_front_end_tarea_html_css)**
 ### Conocimientos Adquiridos
 
